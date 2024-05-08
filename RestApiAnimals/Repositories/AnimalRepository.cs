@@ -4,7 +4,7 @@ namespace RestApiAnimals.Repositories;
 
 public class AnimalRepository:IAnimalRepository
 {
-
+   
     internal static List<Animal> _animals =
     [
         new Animal
